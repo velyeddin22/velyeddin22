@@ -63,13 +63,13 @@
       <h4>📱 Basat – Fitness Uygulaması</h4>
       <p>Spor salonu iş birliğiyle geliştirilen, kişisel antrenman ve ilerleme takibi yapan mobil uygulama.</p>
       <p><strong>Teknolojiler:</strong> Flutter, Dart, Firebase</p>
-      <a href="https://binnatov.com/projects/basat" target="_blank">🔗 Detaylar</a>
+      <a href="https://binnatov.com" target="_blank">🔗 Detaylar</a>
     </td>
     <td width="50%" valign="top">
       <h4>📖 Kur'an Meali – Mobil Uygulama</h4>
       <p>Her yerde Türkçe mealli Kur'an dinleme imkânı sunan, kullanıcı dostu mobil uygulama.</p>
       <p><strong>Teknolojiler:</strong> Flutter, Dart</p>
-      <a href="https://binnatov.com/projects/kuranmeali" target="_blank">🔗 Detaylar</a>
+      <a href="https://binnatov.com" target="_blank">🔗 Detaylar</a>
     </td>
   </tr>
   <tr>
@@ -77,13 +77,13 @@
       <h4>🏭 Bitirme Projesi – Emisyon İzleme Sistemi</h4>
       <p>H2S, CH4 ve koku sensörlerinden anlık veri alan, mobil ve web arayüzlü IoT sistemi.</p>
       <p><strong>Teknolojiler:</strong> IoT, ESP32, Flutter, Web</p>
-      <a href="https://binnatov.com/projects/bitirme" target="_blank">🔗 Detaylar</a>
+      <a href="https://binnatov.com" target="_blank">🔗 Detaylar</a>
     </td>
     <td width="50%" valign="top">
       <h4>🛡️ CFD Sigorta – Mobil Uygulama</h4>
       <p>Poliçe sorgulama, yeni poliçe oluşturma ve sigorta takibi işlemlerini kolaylaştıran uygulama.</p>
       <p><strong>Teknolojiler:</strong> Flutter, Dart</p>
-      <a href="https://binnatov.com/projects/cfd" target="_blank">🔗 Detaylar</a>
+      <a href="https://binnatov.com" target="_blank">🔗 Detaylar</a>
     </td>
   </tr>
 </table>
