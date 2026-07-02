@@ -96,7 +96,7 @@
   <i>• [Flutter ile Dinamik Tema Yönetimi] – yakında yayında</i><br>
   <i>• [Firebase Realtime Database Kullanımı] – yakında yayında</i><br>
   <i>• [ESP32 ile Çevresel Sensör Verileri Okuma] – yakında yayında</i><br>
-  <a href="https://binnatov.com/blog" target="_blank">Tüm yazıları görüntüle →</a>
+  <a href="https://binnatov.com/" target="_blank">Tüm yazıları görüntüle →</a>
 </p>
 
 <hr>
